@@ -12,6 +12,12 @@ A solution for managing a company's employees using node, inquirer, and MySQL
 
 # Visuals
 
+## Video Demo
+
+https://youtu.be/VTiH_Ed4SSY
+
+## Snapshot
+
 ![employee-tracker](./src/snapshot.png)
 
 # Usage
